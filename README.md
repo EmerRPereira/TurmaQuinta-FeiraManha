@@ -11,5 +11,6 @@
 - CUIDADO: ***Quando o ator é atingido, retorna para o início da via***
 ---
 
-<img src="https://artesmendes.files.wordpress.com/2013/04/charge27-04-2013-e1367249553863.jpg" /> 
-![image]({BadgeURLHere})
+<img src="https://artesmendes.files.wordpress.com/2013/04/charge27-04-2013-e1367249553863.jpg" width="200" height="100"/> 
+
+![TransitoCaotico](https://artesmendes.files.wordpress.com/2013/04/charge27-04-2013-e1367249553863.jpg)
